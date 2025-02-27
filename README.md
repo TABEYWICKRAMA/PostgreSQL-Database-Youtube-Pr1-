@@ -5,5 +5,5 @@ Database looks like,
 
 ![Alt text](https://github.com/TABEYWICKRAMA/PostgreSQL-Database-Youtube-Pr1-/blob/main/Relational%20Database.jpg)
 
-Access PostgreSQL database via Docker, 
+Access PostgreSQL container via Docker, 
 ![Alt text](https://github.com/TABEYWICKRAMA/PostgreSQL-Database-Youtube-Pr1-/blob/main/access%20postgreSQL%20shell.png)
